@@ -58,7 +58,7 @@ NB: Commands are for Git Bash terminal use
 - Visit http://localhost:8000 in your browser.
 
 ## Licence
-This project is licenced under the MIT <a href = "https://chatgpt.com/c/LICENSE">Licence</a>. 
+This project is licenced under the MIT <a href = "(https://opensource.org/license/mit)">Licence</a>. 
 
 
 
