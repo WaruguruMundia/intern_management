@@ -13,8 +13,8 @@
 
 ## About the Project
 
-A mini application to manage interns, mentors, and HODs. Built using PHP and Laravel.
-Was started to understand the MVC structure of Laravel, and Blade's incorporation in HTML code.
+A mini application to manage interns, mentors, and HODs. Built using PHP and Laravel.<br>
+It was started to understand the MVC structure of Laravel, and Blade's incorporation in HTML code.
 
 ## Features
 - User registration and authentication (interns, HOD's, mentors)
